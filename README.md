@@ -81,6 +81,10 @@ Create a `.env` file:
 ``` bash
 streamlit run data_extracter_updated.py
 ```
+or
+``` bash
+python -m streamlit run data_extracter_updated.py
+```
 
 ### 6. Use the application
 
