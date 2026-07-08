@@ -42,7 +42,7 @@ applies business rules, and recommends the appropriate processing route.
 ### 1. Clone the repository
 
 ``` bash
-git clone "https://github.com/MuhammedFarhanSyed/autonomous-claims-processing-agent.git"
+git clone https://github.com/MuhammedFarhanSyed/autonomous-claims-processing-agent.git
 cd <repository-folder>
 ```
 
