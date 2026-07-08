@@ -14,8 +14,7 @@ applies business rules, and recommends the appropriate processing route.
 -   Applies routing rules:
     -   **Fast-track**: Estimated damage \< ₹25,000.
     -   **Manual Review**: Missing mandatory fields.
-    -   **Investigation Flag**: Description contains keywords such as
-        *fraud*, *inconsistent*, or *staged*.
+    -   **Investigation Flag**: Description contains keywords such as *fraud*, *inconsistent*, or *staged*.
     -   **Specialist Queue**: Claim type is *Injury*.
     -   **Standard Review**: All other valid claims.
 -   Displays extracted JSON.
@@ -43,7 +42,7 @@ applies business rules, and recommends the appropriate processing route.
 ### 1. Clone the repository
 
 ``` bash
-git clone <repository-url>
+git clone "https://github.com/MuhammedFarhanSyed/autonomous-claims-processing-agent.git"
 cd <repository-folder>
 ```
 
