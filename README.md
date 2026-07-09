@@ -7,6 +7,13 @@ with **Streamlit** and **Groq Llama 3.3**. It extracts information from
 FNOL (First Notice of Loss) documents, validates mandatory fields,
 applies business rules, and recommends the appropriate processing route.
 
+
+## 🌐 Live Demo
+
+**🔗 https://hire-farhan.streamlit.app/**
+
+click on the above like for live demo , it is deployed on the streamlit server
+
 ## Features
 
 -   Extracts structured data from PDF/TXT FNOL documents.
